@@ -56,11 +56,11 @@ I completed my PhD at Institut Curie (France), where I applied Monte Carlo techn
   <a href="https://scholar.google.com/citations?hl=en&authuser=1&user=fYppylcAAAAJ">
     <img src="https://cdn.creazilla.com/icons/3236817/google-icon-lg.png" height="40" alt="Google Scholar" style="display:inline-block; vertical-align:middle;" />
   </a>
-  <a href="https://www.researchgate.net/profile/Thongchai-Masilela">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="40" alt="ResearchGate" style="display:inline-block; vertical-align:middle;" />
-  </a>
   <a href="https://orcid.org/0000-0002-1717-6761">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="40" alt="ORCID" style="display:inline-block; vertical-align:middle;" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Thongchai-Masilela">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="40" alt="ResearchGate" style="display:inline-block; vertical-align:middle;" />
   </a>
 </p>
 
