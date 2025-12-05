@@ -18,6 +18,9 @@ I'm currently a post-doc in the department of Radiation Oncology at the Universi
 
 I completed my PhD at Institut Curie (France), where I applied Monte Carlo techniques to study the radiobiological effects of novel radiotherapy modalities aimed at improving treatment outcomes for radioresistant tumors. Have a look at my [PhD thesis](https://theses.hal.science/tel-04390290)
 
+[![Google Scholar badge](https://img.shields.io/badge/-Publications-FAFAFA?logo=googlescholar)](https://scholar.google.com/citations?user=fYppylcAAAAJ)
+[![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-%230177B5?logo=linkedin)](https://www.linkedin.com/in/thongchai-masilela/)
+
 <hr style="border: 1.5px solid #ccc;"/>
 
 ### 🎯 Interests
