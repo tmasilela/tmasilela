@@ -10,7 +10,7 @@
 
 ### 📌 About
 
-I'm currently a post-doc in the department of Radiation Oncology at Massachusetts General Hospital/Harvard Medical School. My work focuses on: 
+I'm currently a Research Fellow in the department of Radiation Oncology at Massachusetts General Hospital/Harvard Medical School. My work focuses on: 
 
 - Developing detailed Monte Carlo models using TOPAS-nBio to investigate the physical/chemical mechanisms underlying FLASH radiotherapy  
 - Building and maintaining a regression testing framework for Monte Carlo simulations, ensuring reliability and reproducibility  
